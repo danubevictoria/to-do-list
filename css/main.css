@@ -1,0 +1,17 @@
+body {
+	margin-top: 100px;
+}
+
+#list-input {
+	background-color: #E8E8E8;
+}
+
+#list {
+	/*background-color: blue;*/
+	height: 700px;
+	margin-top: 20px;
+}
+
+#form {
+	margin-bottom: 20px;
+}
